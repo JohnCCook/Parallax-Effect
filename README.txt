@@ -1,0 +1,1 @@
+This is my attempt to create a parallax effect using HTML, CSS, and Javascript code.
